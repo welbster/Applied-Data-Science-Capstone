@@ -4,7 +4,7 @@
 **Author:** Wélbster Florentino Labat Uchôas  
 **Date:** December 2025  
 
-![SpaceX Falcon 9](https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80) *(Placeholder image - you can replace with your slide 1 image)*
+![SpaceX Falcon 9](https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80) 
 
 ## 📋 Executive Summary
 SpaceX has revolutionized the space industry with its reusable rockets. While a standard rocket launch costs upwards of $165 million, SpaceX can do it for $62 million, primarily because they recover and reuse the Falcon 9 first stage. 
